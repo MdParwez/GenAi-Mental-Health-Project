@@ -1,2 +1,2 @@
 # GenAi-Mental-Health-Project
-a complete Gen Ai mental health project 
+complete Gen Ai mental health project 
